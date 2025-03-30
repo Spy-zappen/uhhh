@@ -3,7 +3,8 @@
 
     "DeckBy": "Your Group Name",
 
-    "Truths": {
+    "Truths": [
+
             "What is your biggest fear?",
             "Have you ever lied to get out of trouble?",
             "What is your guilty pleasure?",
@@ -85,9 +86,8 @@
             "Have you ever had a spontaneous hook-up?",
             "What’s a turn-on that people wouldn’t expect from you?"
         ]
-    },
 
-    "Dares": {
+    "Dares": [
             "Do 10 push-ups.",
             "Sing a song in a funny voice.",
             "Talk in an accent for the next 3 rounds.",
@@ -159,5 +159,4 @@
             "Mimic someone’s flirting style in the group.",
             "Read a spicy text from your messages out loud."
         ]
-    }
 }
