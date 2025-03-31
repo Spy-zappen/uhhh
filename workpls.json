@@ -4,6 +4,8 @@
     "DeckBy": "cloaker (the best :3c)",
 
     "Truths": [
+           
+            "Fuck, Marry, Kill",
             "Did you lie on your last truth? (cmon be real)",
             "What’s the biggest age gap you’ve had in a romantic relationship?",
             "If you had to switch lives with someone in the group, who would it be?",
@@ -52,8 +54,7 @@
             "Have you ever stolen something small?",
             "What’s your worst cooking disaster?",
             "If you had to rename yourself, what would it be?",
-            "What’s a secret talent you have?"
-            "<player>, kiss <player>.",
+            "What’s a secret talent you have?",
             "Name a sex toy you have.",
             "Make out with a player of your choosing.",
             "Send a picture of you in thigh highs.",
@@ -95,6 +96,10 @@
             "What’s a turn-on that people wouldn’t expect from you?"
     ],
     "Dares": [
+            "Send <player> a picture of you in risqué clothing",
+            "Let <player> see a picture in your locked photo album",
+            "Text the 5th person in your dm's "Crazy? I was crazy once"",
+            "<player>, kiss <player>.",
             "Hold a handstand for as long as you can",
             "Pretend you are dating the person to your right",
             "Let <player> draw on your face with a marker.",
@@ -137,11 +142,11 @@
             "Give a lapdance to <player>",
             "Send a flirty text to someone in your contacts.",
             "Let another player look through your recent messages.",
-            "Blindfold yourself and let someone kiss you.",
+            "Blindfold yourself and let <player> kiss you.",
             "Remove one piece of clothing (not underwear).",
             "Whisper something seductive to the person next to you.",
-            "Let someone write something on your body.",
-            "Give someone a hickey.",
+            "Let everybody write something on your body.",
+            "Give <player> a hickey.",
             "Let someone else choose a sexy pose for you to do.",
             "Let someone else take a playful selfie with your phone.",
             "Try to seduce an inanimate object for 30 seconds.",
@@ -160,6 +165,7 @@
             "Wear a blindfold and let someone kiss you.",
             "French kiss your own hand passionately.",
             "Mimic someone’s flirting style in the group.",
-            "Read a spicy text from your messages out loud."
+            "Read a spicy text from your messages out loud.",
+            "Cuddle <player> untill your next turn",
     ]
 }
